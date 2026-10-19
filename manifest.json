@@ -1,4 +1,15 @@
 {
   "schema": 1,
-  "channels": {}
+  "channels": {
+    "testflight": {
+      "runtime": 1,
+      "version": "0.1.0+ota.1",
+      "build": 1,
+      "url": "packs/offline-99-neighborhood-r1-b1.pck",
+      "sha256": "914c7c584c3dc040814727a30a8d6e3c95729955593a2e3ec09594523a395df6",
+      "size": 11981120,
+      "created": "2026-10-19T13:35:33.885433+00:00",
+      "notes": "ios-ota-20261019-2134"
+    }
+  }
 }
