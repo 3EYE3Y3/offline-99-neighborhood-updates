@@ -3,13 +3,13 @@
   "channels": {
     "testflight": {
       "runtime": 1,
-      "version": "0.1.0+ota.30",
-      "build": 30,
-      "url": "packs/offline-99-neighborhood-r1-b30.pck",
-      "sha256": "00ec6cb3309e1743990ecedfa061543ce5faf09b00fc88ac141d4b7b33ba0a62",
-      "size": 12974040,
-      "created": "2026-10-20T10:38:55.095114+00:00",
-      "notes": "ios-ota-20261020-1838"
+      "version": "0.1.0+ota.31",
+      "build": 31,
+      "url": "packs/offline-99-neighborhood-r1-b31.pck",
+      "sha256": "b685509607da4cb3751aba382ea2248b5e41a945be87d5b07a8298985d25ec74",
+      "size": 12974632,
+      "created": "2026-10-20T11:03:56.223214+00:00",
+      "notes": "ios-ota-20261020-1903"
     }
   }
 }
